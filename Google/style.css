@@ -1,0 +1,187 @@
+.header1{
+    font-size:small;
+    text-decoration: none;
+}
+
+.icon1{
+    height: 250px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon{
+    height: 140px;
+    width: 290px;
+}
+
+.icon2{
+    height: 110px;
+    width: 290px;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search1{
+    height: 50px;
+    width: 40vw;
+    border-radius: 10vw;
+    /* border: none; */
+    border-color: aquamarine;
+    
+}
+
+.se{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    height: 45px;
+    width:40vw;
+    border: solid 1px rgb(183, 173, 173);
+    border-radius: 10vw;
+}
+
+.se img{
+    width:30px;
+    height:30px;
+}
+
+.s1{
+    width:30px;
+    height:30px;
+    margin-right: 1rem;
+}
+
+.s2{
+    margin-left: 490px;
+    margin-right: 10px;
+    /* position:relative; */
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lang{
+    text-align: center;
+    font-size: 0.8rem;
+    margin-top: 50px;
+}
+
+.akhi{
+    border:none;
+    height: 41px;
+    width: 80%; 
+    margin-left:10px;
+}
+
+.searchbar{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    height: 45px;
+    width:40vw;
+    border: solid 1px rgb(183, 173, 173);
+    border-radius: 10vw;
+}
+
+.image{
+    width:30px;
+    height:30px;
+}
+
+.mic{
+    width:30px;
+    height:30px;
+}
+
+.s4{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.search{
+    width: 100%;
+    border:none;
+}
+
+.i11{
+    gap:10px;
+}
+
+.test{
+    background-color: black;
+    border: 10px solid black;
+    height: 70px;
+}
+
+.short{
+    height: 35px;
+    width: 70px;
+    margin: 1rem;
+}
+
+.name{
+    color:red;
+    margin:1.5rem;
+    font-weight:400;
+}
+
+.line{
+    color: rgb(183, 173, 173)
+}
+
+.todo{
+    color:rgb(104, 102, 102);
+    font-size: 90%;
+    font-weight: 500;
+}
+
+.left{
+    font-weight:500;
+}
+
+.left1{
+    font-size: 90%;
+}
+
+.right1{
+    font-size: 73%;
+}
+
+input{
+    border:1px solid rgb(159, 162, 159);
+}
+
+.Adsearch{
+    height:30px;
+    width: 150px;
+    background-color: rgb(77, 118, 232);
+    color:white;
+    border:none;
+    border-radius:3%;
+    font-size:small; 
+}
+
+.footer{
+    height: 80px;
+    background-color: rgb(244, 244, 244);
+}
+
+.footer1{
+    color:rgb(154, 154, 154)
+}
